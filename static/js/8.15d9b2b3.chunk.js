@@ -1,0 +1,2 @@
+(this.webpackJsonpchung2sillok=this.webpackJsonpchung2sillok||[]).push([[8],{35:function(n,s,c){},65:function(n,s,c){"use strict";c.r(s);c(0),c(35);var e=c(1);s.default=function(){return Object(e.jsx)("section",{className:"party",children:Object(e.jsx)("div",{className:"inner",children:"\uad00\uacc4\ub3c4\ud398\uc774\uc9c0"})})}}}]);
+//# sourceMappingURL=8.15d9b2b3.chunk.js.map
